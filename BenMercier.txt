@@ -1,4 +1,4 @@
-fav_col="green"
+fav_col="No, Blue!"
 fav_car="corvette"
 fav_food="tacos"
 fav_animal="dog"
